@@ -10,7 +10,7 @@ body {
 
 header {
     display: flex;
-    background-color: #4464AD;
+    background-color: #3A7CA5;
     align-content: center;
     padding: 10px;
 }
@@ -53,9 +53,10 @@ ul {
 }
 
 footer {
+    
     box-sizing: border-box;
-    margin: 0;
+    margin-top: auto;
     padding: 15px;
-    background-color: #4464AD;
+    background-color: #B9E6FF;
     text-align: center;
 }
