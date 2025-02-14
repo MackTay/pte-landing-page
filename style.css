@@ -26,6 +26,7 @@ ul {
     gap: 15px;
     font-size: 18px;
     list-style: none;
+    font-weight: 900;
     margin-right: 10%;
     padding: 0;
 }
