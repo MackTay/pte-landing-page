@@ -12,6 +12,7 @@ header {
     display: flex;
     background-color: #4464AD;
     align-content: center;
+    padding: 10px;
 }
 
 img {
@@ -21,7 +22,12 @@ img {
 }
 
 ul {
+    display: flex;
+    gap: 15px;
+    font-size: 18px;
     list-style: none;
+    margin-right: 10%;
+    padding: 0;
 }
 
 .header-link {
