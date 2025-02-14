@@ -53,5 +53,9 @@ ul {
 }
 
 footer {
-    background-color: brown;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 15px;
+    background-color: #4464AD;
+    text-align: center;
 }
