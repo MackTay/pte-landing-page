@@ -15,10 +15,15 @@ header {
     padding: 10px;
 }
 
-img {
+.logo {
     width: 150px;
     height: auto;
     margin: 0 auto 0 10%;
+}
+
+.exp-logo {
+    width: 300px;
+    height: auto;
 }
 
 ul {
@@ -39,6 +44,9 @@ ul {
 .div-one {
     display: flex;
     margin: 0 10%;
+    justify-content: center;
+    gap: 30px;
+    padding: 20px;
 }
 
 .div-two {
