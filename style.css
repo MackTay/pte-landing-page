@@ -1,2 +1,32 @@
 /* style.css */
 
+body {
+    font-family: Roboto, Georgia, serif;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+}
+
+.div-one {
+    display: flex;
+}
+
+.div-two {
+    display: flex;
+}
+
+.div-three {
+    background-color: pink;
+
+}
+
+.div-four {
+    background-color: blue;
+}
+
+footer {
+    background-color: brown;
+}
