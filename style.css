@@ -1,7 +1,7 @@
 /* style.css */
 
 body {
-    font-family: Roboto, Georgia, serif;
+    font-family: 'Roboto', Georgia, serif;
     margin: 0;
     min-height: 100vh;
     display: flex;
@@ -11,12 +11,22 @@ body {
 header {
     display: flex;
     background-color: #4464AD;
+    align-content: center;
 }
 
 img {
     width: 150px;
     height: auto;
     margin: 0 auto 0 10%;
+}
+
+ul {
+    list-style: none;
+}
+
+.header-link {
+    text-decoration: none;
+    color: white;
 }
 
 .div-one {
