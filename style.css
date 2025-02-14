@@ -22,7 +22,7 @@ header {
 }
 
 .exp-logo {
-    width: 300px;
+    width: 400px;
     height: auto;
 }
 
@@ -46,7 +46,7 @@ ul {
     margin: 0 10%;
     justify-content: center;
     gap: 30px;
-    padding: 20px;
+    padding: 30px;
 }
 
 .div-two {
