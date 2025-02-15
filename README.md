@@ -9,3 +9,6 @@ Happy face image by <a href="https://pixabay.com/users/hsaart-8633812/?utm_sourc
       
 Talking image by <a href="https://pixabay.com/users/arya_w_putra-20804497/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=9046390">Arya Widia Putra</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=9046390">Pixabay</a>     
       
+Restaurant image by <a href="https://pixabay.com/users/openclipart-vectors-30363/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=146963">OpenClipart-Vectors</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=146963">Pixabay</a>
+
+Speech bubble image by <a href="https://pixabay.com/users/openclipart-vectors-30363/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=151341">OpenClipart-Vectors</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=151341">Pixabay</a>
