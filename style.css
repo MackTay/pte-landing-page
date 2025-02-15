@@ -79,6 +79,11 @@ ul {
     padding: 20px;
 }
 
+.goal-img {
+    width: 150px;
+    height: auto;
+}
+
 .main-wrap {
     display: flex;
     justify-content: center;
@@ -88,6 +93,9 @@ ul {
 .main-info {
     display: flex;
     flex-direction: column;
+    max-width: 150px;
+    text-align: center;
+    gap: 10px;
 }
 
 .div-three {
