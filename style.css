@@ -76,7 +76,18 @@ ul {
 }
 
 .div-two {
+    padding: 20px;
+}
+
+.main-wrap {
     display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.main-info {
+    display: flex;
+    flex-direction: column;
 }
 
 .div-three {
@@ -93,6 +104,6 @@ footer {
     box-sizing: border-box;
     margin-top: auto;
     padding: 15px;
-    background-color: #B9E6FF;
+    background-color: #E5D4ED;
     text-align: center;
 }
