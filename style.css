@@ -118,7 +118,24 @@ ul {
 }
 
 .div-four {
-    background-color: blue;
+    padding: 50px 100px;
+}
+
+.cta {
+    display: block;
+    padding: 30px 60px;
+    background-color: #3882f6;
+    border-radius: 8px;
+}
+
+.div-four button {
+    background-color: #3882f6;
+    color: white;
+    border-color: white;
+    border-radius: 4px;
+    padding: 5px 15px;
+    margin-left: auto;
+    margin-right: 0;
 }
 
 footer {
