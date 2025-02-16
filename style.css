@@ -101,8 +101,20 @@ ul {
 }
 
 .div-three {
-    background-color: pink;
+    background-color: #e5e7eb;
+    text-align: left;
+    padding: 100px 20%;
+    color: #1f2937;
+    font-style: italic;
+    font-size: 36px;
+}
 
+.quote {
+    display: block;
+    text-align: right;
+    font-weight: 700;
+    font-style: normal;
+    margin-top: 10px;
 }
 
 .div-four {
