@@ -124,7 +124,7 @@ ul {
 
 .cta {
     display: flex;
-    padding: 30px 60px;
+    padding: 35px 80px;
     background-color: #3882f6;
     border-radius: 8px;
     color: white;
@@ -145,12 +145,12 @@ ul {
 .div-four button {
     background-color: #3882f6;
     color: white;
+    align-self: center;
     font-weight: bold;
     border: solid white 2px;
     border-radius: 4px;
-    padding: 5px 15px;
+    padding: 5px 20px;
     margin-left: auto;
-    margin-right: 0;
 }
 
 footer {
