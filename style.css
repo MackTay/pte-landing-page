@@ -118,14 +118,28 @@ ul {
 }
 
 .div-four {
-    padding: 50px 100px;
+    padding: 50px 10%;
+    color: white;
 }
 
 .cta {
-    display: block;
+    display: flex;
     padding: 30px 60px;
     background-color: #3882f6;
     border-radius: 8px;
+    color: white;
+}
+
+.cta div {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    max-width: 50%;
+    font-weight: 900;
+}
+
+.sub-cta {
+    font-weight: normal;
 }
 
 .div-four button {
